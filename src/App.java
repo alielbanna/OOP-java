@@ -37,11 +37,12 @@ public class App {
 
     //Polymorphism
 
-    Animal animal1 = new Dog();
-    Animal animal2;
-    animal2 = new Cat();
-    animal2 = new Dog();
+    // Animal animal1 = new Dog();
+    // Animal animal2;
+    // animal2 = new Cat();
+    // animal2 = new Dog();
         
+
 
     }
 }

@@ -1,6 +1,11 @@
-public interface Animal {
-    void drink();
+// public interface Animal {
+//     void drink();
 
-    void walk();
+//     void walk();
     
+// }
+
+public interface Animal {
+
+    void eat();
 }

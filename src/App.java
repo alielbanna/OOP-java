@@ -34,6 +34,13 @@ public class App {
     //    car1.setEngine(engine1);
 
     //    System.out.println(car1.getEngine().getType());
+
+    //Polymorphism
+
+    Animal animal1 = new Dog();
+    Animal animal2;
+    animal2 = new Cat();
+    animal2 = new Dog();
         
 
     }
